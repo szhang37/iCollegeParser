@@ -1,0 +1,90 @@
+school link: /school/mitx
+school thumbnail: https://www.edx.org/sites/default/files/school/image/banner/mit_logo_200x101_0.png
+school name: Massachusetts Institute of Technology
+school link: /school/harvardx
+school thumbnail: https://www.edx.org/sites/default/files/school/image/banner/harvard_logo_200x101_0.png
+school name: Harvard University
+school link: /school/uc-berkeleyx
+school thumbnail: https://www.edx.org/sites/default/files/school/image/banner/berkeley_logo_200x101_0.png
+school name: UC Berkeley
+school link: /school/utx
+school thumbnail: https://www.edx.org/sites/default/files/school/image/banner/ut_logo_200x101_0.png
+school name: University of Texas System
+school link: /school/anux
+school thumbnail: https://www.edx.org/sites/default/files/school/image/banner/anu_logo_200x101_0.png
+school name: Australian National University
+school link: /school/delftx
+school thumbnail: https://www.edx.org/sites/default/files/school/image/banner/delft_logo_200x101_0.png
+school name: Delft University of Technology
+school link: /school/epflx
+school thumbnail: https://www.edx.org/sites/default/files/school/image/banner/epfl_logo_200x101_0.png
+school name: EPFL
+school link: /school/georgetownx
+school thumbnail: https://www.edx.org/sites/default/files/school/image/banner/georgetown_logo_200x101_0.png
+school name: Georgetown University
+school link: /school/mcgillx
+school thumbnail: https://www.edx.org/sites/default/files/school/image/banner/mcgill_logo_200x101_0.png
+school name: McGill University
+school link: /school/ricex
+school thumbnail: https://www.edx.org/sites/default/files/school/image/banner/rice_logo_200x101_0.png
+school name: Rice University
+school link: /school/university-torontox
+school thumbnail: https://www.edx.org/sites/default/files/school/image/banner/toronto_logo_200x101_0.png
+school name: University of Toronto
+school link: /school/wellesleyx
+school thumbnail: https://www.edx.org/sites/default/files/school/image/banner/wellesley_logo_200x101_0_0.png
+school name: Wellesley College
+school link: /school/berkleex
+school thumbnail: https://www.edx.org/sites/default/files/school/image/banner/berklee-200x101_0.png
+school name: Berklee College of Music
+school link: /school/bux
+school thumbnail: https://www.edx.org/sites/default/files/school/image/banner/boston_logo_200x101_0_0.png
+school name: Boston University
+school link: /school/cornellx
+school thumbnail: https://www.edx.org/sites/default/files/school/image/banner/cornell-lockup-200x101_0.png
+school name: Cornell University
+school link: /school/davidsonx
+school thumbnail: https://www.edx.org/sites/default/files/school/image/banner/davidson_logo_200x101_0_0.png
+school name: Davidson College
+school link: /school/hkux
+school thumbnail: https://www.edx.org/sites/default/files/school/image/banner/hku_logo_200x101_0.png
+school name: University of Hong Kong
+school link: /school/hkustx
+school thumbnail: https://www.edx.org/sites/default/files/school/image/banner/hkust-logo-200x201_0.png
+school name: Hong Kong University of Science and Technology
+school link: /school/iitbombayx
+school thumbnail: https://www.edx.org/sites/default/files/school/image/banner/iitbombay_rev_200x101_0.png
+school name: IITBombay
+school link: /school/kix
+school thumbnail: https://www.edx.org/sites/default/files/school/image/banner/kix_200x101_0.png
+school name: Karolinska Institutet
+school link: /school/ethx
+school thumbnail: https://www.edx.org/sites/default/files/school/image/logo/eth_200x101.png
+school name: ETHx
+school link: /school/kyotoux
+school thumbnail: https://www.edx.org/sites/default/files/school/image/banner/kyotoux_200x101_0.png
+school name: Kyoto University
+school link: /school/louvainx
+school thumbnail: https://www.edx.org/sites/default/files/school/image/banner/ucl-logo_200x101_0.png
+school name: Université catholique de Louvain
+school link: /school/pekingx
+school thumbnail: https://www.edx.org/sites/default/files/school/image/banner/peking_logo_200x101_0_0.png
+school name: Peking University
+school link: /school/snux
+school thumbnail: https://www.edx.org/sites/default/files/school/image/banner/snu_logo_200x101_0.png
+school name: Seoul National University
+school link: /school/tsinghuax
+school thumbnail: https://www.edx.org/sites/default/files/school/image/banner/tsinghua-logo_200x101_0.png
+school name: Tsinghua University
+school link: /school/tumx
+school thumbnail: https://www.edx.org/sites/default/files/school/image/banner/tum_logo_200x101_0.png
+school name: Technische Universität München
+school link: /school/uqx
+school thumbnail: https://www.edx.org/sites/default/files/school/image/banner/queensland_logo_200x101_0_0.png
+school name: University of Queensland
+school link: /school/uwashingtonx
+school thumbnail: https://www.edx.org/sites/default/files/school/image/banner/uw_200x101_0.png
+school name: University of Washington
+school link: /school/caltechx
+school thumbnail: https://www.edx.org/sites/default/files/school/image/banner/caltech_200x101_0_0.png
+school name: CaltechX
