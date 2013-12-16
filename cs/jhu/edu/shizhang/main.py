@@ -4,6 +4,7 @@ Created on Dec 14, 2013
 @author: shizhang
 '''
 import myHtmlPaser
+import EdxCourseParser
 import EdxParser
 import urllib
 
@@ -23,8 +24,17 @@ if __name__ == '__main__':
 #    parser.feed(filehandle.read())
 #    
 #    print rawfile.read()
-#    
-    parser = EdxParser.EdxParser()
+#   
+    parser = EdxParser.EdxParser() 
+#    corseparser = EdxCourseParser.EdxCourseParser()
     parser.feed(filehandle.read())
-    print parser.getSchoolLinks();
+    for schoolcode in parser.getSchoolLinks():
+        handler = urllib.urlopen("https://www.edx.org"+schoolcode)
+        corseparser1 = EdxCourseParser.EdxCourseParser()
+        corseparser1.feed(handler.read())
+        handler = urllib.urlopen("https://www.edx.org"+schoolcode+"?page=1")
+        corseparser2 = EdxCourseParser.EdxCourseParser()
+        corseparser2.feed(handler.read())
+        
+    
     
