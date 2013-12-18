@@ -1,0 +1,365 @@
+course link: /course/cs101
+thumbnail: //lh5.ggpht.com/yhPNCRsKl23saHN_vqPZS5cAvFDLdXZ9OK3QPv9nBRZCXIWMYng0mHo0tm3p_uz-xzJyGlsec9h_pKkdIQ=s140
+course id: CS101
+crs-li-title: Introduction to Computer Science
+crs-li-sub: Building a Search Engine
+crs-li-tags-category: COMPUTER SCIENCE
+crs-li-text: Learn key concepts in computer science
+								including how to write your own computer programs. This course
+								teaches Python programming in the context of building a search
+								engine.
+							
+course link: /course/ud162
+thumbnail: //lh5.ggpht.com/_IsoVUr6N-Rqm-iWego7682Q57XltP6EERahE28KwFFuLpWZFuRCQZZZpn7UAYwsW7O-d3JWAHDcNngtGw=s0#w=218&h=134
+course id: UD162 coming soon
+crs-li-title: Intro to Salesforce App Development 
+crs-li-title: NEW
+crs-li-sub: Think it. Build it.
+crs-li-tags-category: COMPUTER SCIENCE
+crs-li-text: 
+								
+crs-li-text: In this short class you'll build powerful apps without writing code. Great if you're an
+									aspiring developer or someone who wants to learn what programmers do.
+								
+course link: /course/design101
+thumbnail: //lh6.ggpht.com/M6_rjaY0ZFd5X4XRUBJE6H0xeeqMeyvXm5rp3N7ruIGHpLvZoioNtUjey9Kqm7LReH8f85kriFBCKDHKCeY=s140#w=218&h=134
+course id: design101
+crs-li-title: The Design of Everyday Things 
+crs-li-title: NEW
+crs-li-tags-category: DESIGN
+crs-li-text: This series of courses will provide you with
+								the knowledge and experience to understand the role of design in
+								today's world. You will learn how to be a design thinker and even
+								a design doer!
+							
+course link: /course/bio110
+thumbnail: //lh4.ggpht.com/K1npG3MF5WbtMp7X6Eb8TyGZMXYMPbI_27ER6ZJiCVb9f_nAqzbrApEd3Z4rw13hGPawt4rdnAg9ZRzB53c=s140
+course id: bio110
+crs-li-title: Tales from the Genome
+crs-li-sub: Adventures in DNA, Identity, and Health
+crs-li-tags-category: BIOLOGY
+crs-li-text: Learn the basics of genetics, with a personal
+								twist. This class is all about DNA and how it shapes who we are. No
+								background is required other than a curiosity about the code of life.
+							
+course link: /course/ph100
+thumbnail: //lh6.ggpht.com/Z8iDehj4KHicCdptW7FnnzVSQCksoN6cTt58vUvcLeUVRf5qJIRcs6LsPuG5X7srxtl4jMajBAudSyw_pQ=s140
+course id: PH101
+crs-li-title: Introduction to Physics
+crs-li-sub: Landmarks in Physics
+crs-li-tags-category: PHYSICS
+crs-li-text: Study physics abroad in Europe
+crs-li-text: virtually!
+								Learn the basics of physics on location in Italy, the Netherlands and
+								the UK, by answering some of the discipline's major questions from
+								over the last 2000 years.
+							
+course link: /course/st101
+thumbnail: //lh4.ggpht.com/DeRzxnpEirE2B_f59aeWo1dTDDc0IBovKn0kJwvFwStyEjA2hy6Otsbh1hvdjLx2IZkqHjilQbzTrCNv1HE=s140
+course id: ST101
+crs-li-title: Introduction to Statistics
+crs-li-sub: Making Decisions Based on Data
+crs-li-tags-category: MATHEMATICS
+crs-li-text: In this class, you'll learn to analyze, visualize,
+								and interpret data. Thought-provoking examples and opportunities to combine
+								statistics and programming will keep you engaged and challenged.
+							
+course link: /course/ma004
+thumbnail: /media/img/temp/temp_intro_algebra_review.jpg
+course id: MA004
+crs-li-title: Introductory Algebra Review
+crs-li-tags-category: MATHEMATICS
+crs-li-text: This course provides a brief review
+								of introductory algebra topics. Topics to be covered include
+								integer operations, order of operations, perimeter and area,
+								fractions and decimals, and more.
+							
+course link: /course/ma006
+thumbnail: //lh6.ggpht.com/tnQsrjUouppKZxLidvKl9tziOsRszEBO2LIHRwP5wgiiBogMJS8pvdB8t_qDydEL3H81HX86IrOb4uEOdNc=s140
+course id: MA006
+crs-li-title: Visualizing Algebra
+crs-li-sub: Patterns and Problems
+crs-li-tags-category: MATHEMATICS
+crs-li-text: 
+								
+crs-li-text:  Learn the basics of Algebra through intuition and problem solving! From fractions
+									to factors to functions, we’ll cover a breadth of topics.
+								
+course link: /course/ma008
+thumbnail: //lh4.ggpht.com/4c7MDphGVFfo8EvhNOzxAs2OMKHthAgXkmni03muDj2j5Ex6dUYWuu6GSX27G62kkEzFp1P6_-ot7GwNYUY=s140
+course id: MA008
+crs-li-title: College Algebra
+crs-li-tags-category: MATHEMATICS
+crs-li-text: 
+								
+crs-li-text: Gain an in-depth understanding of
+									algebraic principles and learn how to use them to solve problems
+									you may meet in everyday life.
+								
+course link: /course/cs046
+thumbnail: /media/img/temp/temp_intro_java.jpg
+course id: CS046
+crs-li-title: Intro to Programming in Java
+crs-li-sub: Learning Java
+crs-li-tags-category: COMPUTER SCIENCE
+crs-li-text: 
+								
+crs-li-text: Learn the basics of Java, a popular,
+									general purpose programming language. We'll also help you set
+									up BlueJ so you can continue to program on your own.
+								
+course link: /course/ps001
+thumbnail: /media/img/temp/temp_intro_psych.jpg
+course id: PS001
+crs-li-title: Introduction to Psychology
+crs-li-sub: The Science of Thought and Behavior
+crs-li-tags-category: PSYCHOLOGY
+crs-li-text: 
+								
+crs-li-text: Go on a journey through psychological
+									concepts and principles to enable you to gain a more in-depth
+									understanding of human thought and behavior.
+								
+course link: /course/st095
+thumbnail: //lh3.ggpht.com/C-0I_oyTp_TnIHrT8YU7dC_P7b1udOZ0-sZg_qXkxFSp9ozKhAh-H04y8iW0ByfIaxgTsJ9VQBhDziYO4cc=s140
+course id: ST095
+crs-li-title: Statistics
+crs-li-sub: The Science of Decisions
+crs-li-tags-category: MATHEMATICS
+crs-li-text: 
+								
+crs-li-text: We live in a time
+									of unprecedented access to information. You'll learn how to use
+									statistics to interpret that information and make decisions.
+								
+course link: /course/cs253
+thumbnail: //lh6.ggpht.com/So4yjQXrjvuSV8_b_wuQCOhsZ_cTzjaGGWWWIhWXzpP9Ovw93nBXF3NaTekUvpyTHjtM-_FKM_60GdWl-g=s140
+course id: CS253
+crs-li-title: Web Development
+crs-li-sub: How to Build a Blog
+crs-li-tags-category: COMPUTER SCIENCE
+crs-li-text: Starting from the basics of how the web works,
+								this class will walk you through everything you need to know to
+								build your own blog application and scale it to support large
+								numbers of users.
+							
+course link: /course/ud651
+thumbnail: //lh3.ggpht.com/ucqVEPW8x-_C9_ivZ29WKHV4QWY5aQnhNt18IptMdZ_R1hRAsyokkmrYjDi_yyrRUIQuNyqBMiO84LfIZepw=s0#w=218&h=134
+course id: UD651 coming soon
+crs-li-title: Exploratory Data Analysis 
+crs-li-title: NEW
+crs-li-sub: Digging in Data for Diamonds
+crs-li-tags-category: DATA SCIENCE
+crs-li-text: 
+								
+crs-li-text: Data is everywhere and so much of it is unexplored. Learn how to investigate and 
+									summarize data sets using R and eventually create your own analysis.
+								
+course link: /course/ud032
+thumbnail: //lh4.ggpht.com/k6cDj4TSrqCpOMexF-H3fFXmUidtAIqukV3m7FikLJpeA6dh5JZLn6n4ISHa3L849mPCEZR-bwBwczrq8W0=s0#w=218&h=134
+course id: UD032 coming soon
+crs-li-title: Data Wrangling with MongoDB 
+crs-li-title: NEW
+crs-li-sub: Extraction, Manipulation and Storage
+crs-li-tags-category: DATA SCIENCE
+crs-li-text: 
+								
+crs-li-text: Data Scientists spend most of their time cleaning data. In this course, you will learn to
+									convert and manipulate messy data to extract what you need.
+								
+course link: /course/ud617
+thumbnail: //lh5.ggpht.com/DftAo0uhCBY2Awt7La13ZvodYzo1rh1sPVRMPpnX88kpUmPMs5qUo_UK8SyPkWqx3oIRw0FWZJ1iLS7xlH0=s0#w=218&h=134
+course id: UD617
+crs-li-title: Intro to Hadoop and MapReduce 
+crs-li-title: NEW
+crs-li-tags-category: DATA SCIENCE
+crs-li-text: 
+								
+crs-li-text: In this short course, learn the fundamentals
+									of MapReduce and Apache Hadoop to start making sense of Big Data in the real world!
+								
+course link: /course/ud359
+thumbnail: //lh4.ggpht.com/YN6QfoC5wESyosQYF3R0rOPyt0A31ZKgwQ71Zex4-NlPKvYbWY7lqCHLkIz3NXiVmyk-eStIx7WdkeGCIC4=s0#w=218&h=134
+course id: UD359 coming soon
+crs-li-title: Intro to Data Science 
+crs-li-title: NEW
+crs-li-sub: My Data Science Sense is Tingling
+crs-li-tags-category: DATA SCIENCE
+crs-li-text: What does a data scientist do? In this course, we will survey the fundamental topics 
+								in data science so you can understand what skills are needed to become a data scientist!
+							
+course link: /course/cs256
+thumbnail: //lh3.ggpht.com/IaSur3mQ_jaQnqszP7wyb9wDFg_nwLhckkVKPY_duwbarAUuebueKdT12SZL7uEgAwoZGKl9DYJ_6Q5kDWs=s0#w=218&h=134
+course id: cs256
+crs-li-title: Mobile Web Development 
+crs-li-title: NEW
+crs-li-sub: Building First Class Experiences on the Mobile Web
+crs-li-tags-category: COMPUTER SCIENCE
+crs-li-text: 
+								
+crs-li-text: In this course, you'll learn how to build great mobile web experiences.
+									We'll cover performance issues on mobile, and how to make use of mobile sensors.
+								
+course link: /course/cs215
+thumbnail: //lh5.ggpht.com/ubai6WgDHlCzU7PjRSBHKwOnrNeXt4sAlCgYKrJommqU7clHdTA7lDbObnLLzOxJFXIg-21rn7m9bfU_7594=s140
+course id: CS215
+crs-li-title: Algorithms
+crs-li-sub: Crunching Social Networks
+crs-li-tags-category: COMPUTER SCIENCE
+crs-li-text: Ever played the Kevin Bacon game? This class
+								will show you how it works by giving you an introduction to the
+								design and analysis of algorithms, enabling you to discover how
+								individuals are connected.
+							
+course link: /course/cs222
+thumbnail: //lh3.ggpht.com/mF9CgSX0RRrMDoMXNIqnhIZd5nPUNZ-bX8YfB8e9kkMCYSWD_B3eSHbLFFyPyeOR28iqrFaqzpmjEE3aQKo=s140
+course id: CS222
+crs-li-title: Differential Equations in Action
+crs-li-sub: Making Math Matter
+crs-li-tags-category: COMPUTER SCIENCE
+crs-li-text: In this course, we'll find numerical solutions
+								to systems of differential equations. This will let us code
+								mathematical models for fighting wildfires, bringing
+								spaceships back to earth, and more!
+							
+course link: /course/cs255
+thumbnail: //lh5.ggpht.com/JlHcrEXAixygvcN2J4vYcCOEByEnm6dwZnPbq0w3bkn2FdY1jcCKiw9pOgUHPKqvA1afqJNjc47g5hbM6g=s140
+course id: CS255
+crs-li-title: HTML5 Game Development
+crs-li-sub: Building High Performance Web Applications
+crs-li-tags-category: COMPUTER SCIENCE
+crs-li-text: Learn how to build high-performance web games
+								with HTML5. We'll port industry-standard development techniques to
+								the web and use them to create a game.
+							
+course link: /course/cs258
+thumbnail: //lh6.ggpht.com/iLxXBhU-im80Yztrzgmr39z9qvvfgKr-sKG8T2GeTpP5YngXakOH365L5Be9IKgjoC15qrHhOCEhcSMsexo=s140
+course id: CS258
+crs-li-title: Software Testing
+crs-li-sub: How to Make Software Fail
+crs-li-tags-category: COMPUTER SCIENCE
+crs-li-text: When writing software, destruction can be just
+								as valuable as creation. Learn how to catch bugs and break software
+								as you discover different testing methods that will help you build
+								better software.
+							
+course link: /course/cs259
+thumbnail: //lh6.ggpht.com/qKxI8m0dbWZmtzlldyCOhtF-4d7MmACIXd1Io-E_kM5pwpywrkm7FZyW_Q_w74rP4MOVKjFzg_G7SOwMVaO7=s140
+course id: CS259
+crs-li-title: Software Debugging
+crs-li-sub: Automating the Boring Tasks
+crs-li-tags-category: COMPUTER SCIENCE
+crs-li-text: In this course you will learn how to debug
+								programs systematically
+crs-li-text: using scientific methods
+crs-li-text: and
+								also build several automated debugging tools in Python.
+							
+course link: /course/cs262
+thumbnail: //lh4.ggpht.com/kQ8a4uxiTD1oEQNLM6EsD6Iepgfb6swcii7fXVaezuU22RjxIMrX_No0F2rSBzC4tF2Hi50vNONGa2VL-q0=s140
+course id: CS262
+crs-li-title: Programming Languages
+crs-li-sub: Building a Web Browser
+crs-li-tags-category: COMPUTER SCIENCE
+crs-li-text: This class will give you an introduction
+								to the fundamentals of programming languages. Key concepts
+								include how to specify and process valid strings, sentences
+								and program structures.
+							
+course link: /course/cs271
+thumbnail: //lh6.ggpht.com/_7fhSDYTKVnuTntvjXW5h7k4kIJnd8ae_KbyzlYWrBUcY2JMnavA4tF4ee4lhZ2Q-2zEDzdAl-0eH3Fzerg=s140
+course id: CS271
+crs-li-title: Introduction to Artificial Intelligence
+crs-li-sub: AI-Class
+crs-li-tags-category: COMPUTER SCIENCE
+crs-li-text: This class will introduce you to the basics of
+								Artificial Intelligence, which includes machine learning,
+								probabilistic reasoning, robotics, computer vision, and natural
+								language processing.
+							
+course link: /course/cs291
+thumbnail: //lh6.ggpht.com/Eed_-OEi12uGGzHQbty1lIh3MQpzDLgCaM2W3wxsy1oc51ophYGk4Kv909f9ltHwcJXsH8IPJZD-dCshNJg=s140
+course id: CS291
+crs-li-title: Interactive 3D Graphics
+crs-li-sub: Creating Virtual Worlds
+crs-li-tags-category: COMPUTER SCIENCE
+crs-li-text: This class will teach you about the basic
+								principles of 3D computer graphics: meshes, transforms, cameras,
+								lighting, and animation, and how to make interactive 3D applications
+								run in a browser.
+							
+course link: /course/cs313
+thumbnail: //lh6.ggpht.com/yoELB7M_PvSkKyEVKckK6r66jLez3QPkn5LTA-GfdYfNHb4-OpPVvBkNTMl-fzdYSmdRnO5kcqTWBLY3LHQ=s140
+course id: CS313
+crs-li-title: Intro to Theoretical Computer Science
+crs-li-sub: Solving Hard Problems
+crs-li-tags-category: COMPUTER SCIENCE
+crs-li-text: Learn about basic concepts in theoretical
+								computer science. Discover what they imply for solving tough
+								computational challenges. Learn practical approaches to hard
+								problems.
+							
+course link: /course/ep245
+thumbnail: //lh4.ggpht.com/hhkKJAsmCxGiQCjVhMh6v-syfufwXw0OKynBzC2Wa7iXVi5sgzdZVBoCNYSjB-E5ku2YQvNlqL0LaYUEj3oe=s140
+course id: EP245
+crs-li-title: How to Build a Startup
+crs-li-sub: The Lean LaunchPad
+crs-li-tags-category: BUSINESS
+crs-li-text: Learn the key tools and steps to build a
+								successful startup with Steve Blank's famous Customer Development
+								process where entrepreneurs "get out of the building" to gather
+								and iterate on feedback.
+							
+course link: /course/cs212
+thumbnail: //lh4.ggpht.com/gXOFHD4aSeq-XUcuvvmmhDLXDVD5SuG1xWVmHK6yLsYEnlZieh-GBO9S1QGK1woj3clmwmuClyHc3XLzGLI=s140
+course id: CS212
+crs-li-title: Design of Computer Programs
+crs-li-sub: Programming Principles
+crs-li-tags-category: COMPUTER SCIENCE
+crs-li-text: Learn how to model problems, and how to
+								optimize performance by using some of the advanced features
+								of Python.
+							
+course link: /course/cs344
+thumbnail: //lh4.ggpht.com/mCW0QvL1IWdDeSjP3yuUgMxDS5MSZh1J4o3fioCXRD6yvK1n0-jIASgX6NxGCZjpqPkqjBcaaziR9yKeTH4=s140
+course id: CS344
+crs-li-title: Intro to Parallel Programming
+crs-li-sub: Using CUDA to Harness the Power of GPUs
+crs-li-tags-category: COMPUTER SCIENCE
+crs-li-text: Learn the fundamentals of parallel computing
+								with the GPU and the CUDA programming environment through coding
+								a series of image processing algorithms, such as you might find
+								in Photoshop.
+							
+course link: /course/cs348
+thumbnail: //lh3.ggpht.com/4hvBCVFKELjqTmILZ09pbXzFU1VeTSvqpsj1Qt-9wev7EYb7hStUVHsocmGQ5WNKxbCKbrs0D2bS7casqKxE=s140
+course id: CS348
+crs-li-title: Functional Hardware Verification
+crs-li-sub: How to Verify Chips and Eliminate Bugs
+crs-li-tags-category: COMPUTER SCIENCE
+crs-li-text: In this class, you will learn how to efficiently
+								verify chip functionality, learn about automated test generation,
+								and learn to improve code reuse leveraging a standardized
+								methodology.
+							
+course link: /course/cs373
+thumbnail: //lh5.ggpht.com/PzzMwjfXRwAihWzCTIE-8mpZc_9PLgX4DSeSrc9G0V_MHxSDaxRMNtmxG4bWRzWMZal6cKhBY55-OiKrrQ=s140
+course id: CS373
+crs-li-title: Artificial Intelligence for Robotics
+crs-li-sub: Programming a Robotic Car
+crs-li-tags-category: COMPUTER SCIENCE
+crs-li-text: Learn how to program all the major systems of
+								a robotic car from the leader of Google and Stanford's autonomous
+								car team. Topics include planning, search, localization, tracking,
+								and control.
+							
+course link: /course/cs387
+thumbnail: //lh3.ggpht.com/tdgifWkxGaIpQ_2HhQCAmL4HDUFoHqBKCocr2YYmM0hnArPH_YWB0EN4PSb2Idw-LiILDdAWsb-0J7HQjyg=s140
+course id: CS387
+crs-li-title: Applied Cryptography
+crs-li-sub: Science of Secrets
+crs-li-tags-category: COMPUTER SCIENCE
+crs-li-text: Cryptography is present in everyday life,
+								from paying with a credit card to using the telephone. Learn all
+								about making and breaking puzzles in computing.
+							
