@@ -6,6 +6,7 @@ Created on Dec 14, 2013
 import myHtmlPaser
 import EdxCourseParser
 import EdxParser
+import LyndaSubParser
 import urllib
 
 if __name__ == '__main__':
@@ -15,7 +16,7 @@ if __name__ == '__main__':
     '''
 #    filehandle = urllib.urlopen("https://www.udacity.com/courses")
 
-    filehandle = urllib.urlopen("https://www.edx.org/school")
+    
     '''
     parse the information for html file
     '''
@@ -24,17 +25,29 @@ if __name__ == '__main__':
 #    parser.feed(filehandle.read())
 #    
 #    print rawfile.read()
-#   
-    parser = EdxParser.EdxParser() 
-#    corseparser = EdxCourseParser.EdxCourseParser()
+
+## the procedure for edx website 
+
+#    filehandle = urllib.urlopen("https://www.edx.org/school")
+#    parser = EdxParser.EdxParser() 
+#
+#    parser.feed(filehandle.read())
+#    for schoolcode in parser.getSchoolLinks():
+#        handler = urllib.urlopen("https://www.edx.org"+schoolcode)
+#        corseparser1 = EdxCourseParser.EdxCourseParser()
+#        corseparser1.feed(handler.read())
+#        handler = urllib.urlopen("https://www.edx.org"+schoolcode+"?page=1")
+#        corseparser2 = EdxCourseParser.EdxCourseParser()
+#        corseparser2.feed(handler.read())
+
+
+## the procedure for lynda website 
+
+    filehandle = urllib.urlopen("http://www.lynda.com/subject/all")
+    parser = LyndaSubParser.LyndaSubParser() 
     parser.feed(filehandle.read())
+    
     for schoolcode in parser.getSchoolLinks():
-        handler = urllib.urlopen("https://www.edx.org"+schoolcode)
-        corseparser1 = EdxCourseParser.EdxCourseParser()
-        corseparser1.feed(handler.read())
-        handler = urllib.urlopen("https://www.edx.org"+schoolcode+"?page=1")
-        corseparser2 = EdxCourseParser.EdxCourseParser()
-        corseparser2.feed(handler.read())
-        
-    
-    
+        handle = urllib.urlopen("http://www.lynda.com/"+schoolcode)
+        parser1 = LyndaSubParser.LyndaParser() 
+        parser1.feed(handle.read())
